@@ -1,0 +1,7 @@
+1 – Calcule a média de diversas notas digitadas pelo usuário.    
+
+2 – Faça um programa que entre com cinco números e imprima o quadrado de cada número.    
+
+3 - Crie de acordo com o exemplo apresentado em video as seguintes funções:    
+
+a - Subtração  b - Divisão  c - Potência
